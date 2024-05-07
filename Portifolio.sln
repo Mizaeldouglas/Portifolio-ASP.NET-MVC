@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortifolioApp", "PortifolioApp\PortifolioApp.csproj", "{6A11491A-B36A-4E2D-BCF5-30D412D634C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portifolio.App", "Portifolio.App\Portifolio.App.csproj", "{6A11491A-B36A-4E2D-BCF5-30D412D634C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
